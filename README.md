@@ -1,2 +1,2 @@
 # Calculator
-project
+Designing a Calculator in HTML, CSS and JavaScript
